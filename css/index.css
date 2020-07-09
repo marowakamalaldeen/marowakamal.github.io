@@ -1,0 +1,202 @@
+body{
+    background-color: black;
+    font-size:40px;
+
+
+}
+h1{ 
+    color: floralwhite;
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+.main{
+    position:relativeL;
+    margin-bottom: 100px;
+    max-width:100%
+
+}
+.title{
+    position: absolute;
+    top:40%;
+    right: 70%;
+    color: blueviolet;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.sub_title{
+    position: absolute;
+    top:50%;
+    right: 40%;
+    color: rgba(75, 8, 88, 0.795);
+    font-size: 50px;
+    font-weight: bolder; 
+}
+.see_resume{
+    position: absolute;
+    top:75%;
+    right: 70%;
+    font-weight: bold; 
+    padding: 30px 40px;
+    background-color: rgb(162, 204, 63);
+    border-color: darkslategrey;
+    color: floralwhite;
+    cursor: pointer;
+    font-size: 70px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+  
+  .specilization {
+    text-align: center;
+    position: relative;
+  }
+  
+  .specilization_title {
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    color: rgb(108, 170, 8);
+  }
+
+  .img_spec {
+    border-radius: 20px;
+    margin-right: 25px;
+    margin-top: 50px;
+    float: center;
+    width: 25%;
+  }
+  .java_name {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    padding-top: 50px;
+    
+  } 
+  .android_name {
+    position: absolute;
+    left:38%;
+    top: 50%;
+    padding-top: 50px;
+    
+  }
+  .adobe_name {
+    position: absolute;
+    left: 68%;
+    top: 50%;
+    padding-top: 50px;
+    
+  }
+  .java_prof {
+    position: absolute;
+    left: 10%;
+    top: 75%;
+    
+  }
+  .android_prof {
+    position: absolute;
+    left: 38%;
+    top: 75%;
+    
+  }
+  .adobe_prof {
+    position: absolute;
+    left: 68%;
+    top: 75%;
+    
+  }
+  h2{ 
+    position: absolute;
+    font-size:  30px;
+  font-weight:bolder;
+color: floralwhite;
+}
+
+  .desc {
+    text-align: left;
+    color: black;
+    color: white;
+    margin-left: 180px;
+    margin-right: 200px;
+  
+  }
+  
+  
+  
+  .img {
+    text-align: left;
+    padding-top: 10px;
+  }
+  
+
+  .project {
+    text-align: center;
+  }
+  
+  .project_title {
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+  }
+  
+  .project_img {
+    text-align: center;
+  }
+  
+  .prev {
+    margin-bottom: 200px;
+  }
+  
+  .next {
+    margin-bottom: 200px;
+  }
+  
+  .actual_img {
+    border-radius: 15px;
+  }
+  
+  .project_desc {
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 200px;
+    color: white;
+  }
+  
+  .project_content {
+    text-align: left;
+    color: white;
+  }
+  
+  .project_name {
+    text-align: left;
+    color: white;
+    margin-left: 20px;
+  }
+  
+  .resume {
+    text-align: center;
+    padding-bottom: 200px;
+    padding-top: 20px;
+  }
+  
+  .img_container {
+    float: left;
+    width: 33%;
+    padding-top: 50px;
+  }
+  
+  .img_resume {
+    border-radius: 15px;
+  }
+  
+  .contact_me {
+    margin-top: 100px;
+    text-align: center;
+    justify-content: left;
+  }
+   
+  
+  
